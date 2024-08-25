@@ -1,0 +1,34 @@
+site_name: Writing for the End User
+
+nav:
+  - Content for end users:
+    - How to use this guide: howtouse.md
+    - Useful Resources: usefulresources.md
+  - Approach:
+    - Principles of Content: principlesofcontent.md
+    - Address your user: addressuser.md
+    - Avoid duplication: avoidduplication.md
+    - Be concise: beconcise.md
+    - Use plain language: useplainlanguage.md
+    - Structure the content: structurecontent.md
+  - Style:
+    - Active voice: activevoice.md
+    - Present tense: prestense.md
+    - Capitalization: capitalization.md
+    - Punctuation: Punctuation.md
+    - Images: images.md
+    - Using Screenshots: screenshots.md
+    - Abbrevations and acronyms: abbacronym.md
+    - Numbers and percentages: numbers.md
+    - Word list: specificwords.md
+  - Writing Specific Content:
+    - Headings and titles: headings.md
+    - Procedures: Procs.md 
+    - Interface writing: interfacewriting.md
+
+theme: 
+  name: material
+  highlightjs: true
+  hljs languages:
+    - yaml
+    - rust
