@@ -1,6 +1,7 @@
 site_name: Writing for the End User
 
 nav:
+  - Home: index.md
   - Content for end users:
     - How to use this guide: howtouse.md
     - Useful Resources: usefulresources.md
@@ -22,8 +23,7 @@ nav:
     - Numbers and percentages: numbers.md
     - Word list: specificwords.md
   - Writing Specific Content:
-    - Headings and titles: headings.mdmkdocs build
-    
+    - Headings and titles: headings.md
     - Procedures: Procs.md 
     - Interface writing: interfacewriting.md
 
