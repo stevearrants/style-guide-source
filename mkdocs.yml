@@ -18,11 +18,12 @@ nav:
     - Punctuation: Punctuation.md
     - Images: images.md
     - Using Screenshots: screenshots.md
-    - Abbrevations and acronyms: abbacronym.md
+    - Abbreviations and acronyms: abbacronym.md
     - Numbers and percentages: numbers.md
     - Word list: specificwords.md
   - Writing Specific Content:
-    - Headings and titles: headings.md
+    - Headings and titles: headings.mdmkdocs build
+    
     - Procedures: Procs.md 
     - Interface writing: interfacewriting.md
 
